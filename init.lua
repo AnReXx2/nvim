@@ -37,8 +37,3 @@ require "nvchad.autocmds"
 vim.schedule(function()
   require "mappings"
 end)
-
-require 'lspconfig'.html.setup {
-  cmd = { "vscode-html-language-server", "--stdio" },
-  filetypes = { "html" }
-}
