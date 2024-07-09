@@ -3,7 +3,7 @@
   "LuaSnip": { "branch": "master", "commit": "ce0a05ab4e2839e1c48d072c5236cce846a387bc" },
   "NvChad": { "branch": "v2.5", "commit": "0ef037c6db092f0ea627d3f81ce8e7db45e9b187" },
   "alpha-nvim": { "branch": "main", "commit": "41283fb402713fc8b327e60907f74e46166f4cfd" },
-  "asm-lsp": { "branch": "master", "commit": "4d54f6bef6705164efa31b475393e04eb782098e" },
+  "asm-lsp": { "branch": "master", "commit": "97b473e409ded1953f6e6baf1853e48b60e31ab3" },
   "base46": { "branch": "v2.5", "commit": "b17df65f6d423055e9fdfa4e7f55967c03862f29" },
   "cheeky-snippets.nvim": { "branch": "main", "commit": "08eaa82933612a30f44df16ac1ecbfb901536fcc" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
