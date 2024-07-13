@@ -55,7 +55,7 @@ return {
       })
     end,
   },
-    {
+  {
     "saecki/crates.nvim",
     ft = { "toml" },
     config = function(_, opts)
@@ -67,7 +67,7 @@ return {
       crates.show()
     end,
   },
-   {
+  {
     "olexsmir/gopher.nvim",
     ft = "go",
     config = function(_, opts)
@@ -77,7 +77,7 @@ return {
       vim.cmd [[silent! GoInstallDeps]]
     end,
   },
-    {
+  {
     "adalessa/laravel.nvim",
     dependencies = {
       "nvim-telescope/telescope.nvim",
@@ -94,7 +94,7 @@ return {
     event = { "VeryLazy" },
     config = true,
   },
-   {
+  {
     "windwp/nvim-ts-autotag",
     ft = { "javascript", "javascriptreact", "typescript", "typescriptreact" },
     config = function()
